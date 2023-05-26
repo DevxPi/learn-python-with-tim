@@ -1,6 +1,6 @@
 # Introduction
 
-My learning journey with python based on follow youtube series.
+My learning journey with Python is based on following a YouTube series.
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=th4OBktqK1I
 " target="_blank"><img src="http://img.youtube.com/vi/th4OBktqK1I/0.jpg" 
